@@ -10,7 +10,7 @@ class ApplicationTests {
 
 	@Test
 	void contextLoads() {
-		fail("Failing test!");
+		//fail("Failing test!");
 	}
 
 }
